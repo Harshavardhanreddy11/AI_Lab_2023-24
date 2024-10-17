@@ -1,4 +1,4 @@
-# Ex.No: 9  Logic Programming –  Computer Maintenance Expert System
+# Ex.No: 11  Logic Programming –  Computer Maintenance Expert System
 ### DATE: 23-09-2024                                                                           
 ### REGISTER NUMBER : 212222060012
 ### AIM: 
@@ -46,4 +46,4 @@ problem(blank_display).
 
 
 ### Result:
-Thus the simple omputer maintenance expert system was built sucessfully.
+Thus the simple computer maintenance expert system was built sucessfully.
