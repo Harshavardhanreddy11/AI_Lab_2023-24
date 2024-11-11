@@ -65,6 +65,11 @@ app = gr.Interface(fn=diabetes, inputs=['number','number','number','number','num
 app.launch(share=True)
 
 ### Output:
+![image](https://github.com/user-attachments/assets/f418b140-f6cd-4718-8811-da876021fb98)
+![image](https://github.com/user-attachments/assets/a9b7659d-57f0-412e-a1d7-3d32912745df)
+![image](https://github.com/user-attachments/assets/d42ef3a5-edef-4543-86ea-2833ba8ed398)
+![image](https://github.com/user-attachments/assets/00b07bd4-d54e-4526-b305-94f4f8c9b4a4)
+![image](https://github.com/user-attachments/assets/b4568349-5a9d-4280-96b5-0e933d36ffca)
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
